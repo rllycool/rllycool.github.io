@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Ethan Tillotson
+title: Home
 
 # Your name to show in the footer
 author: Ethan Tillotson
@@ -39,7 +39,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "assets/img/handsome fella.jpg"
 
 
 #####################################
@@ -94,7 +94,8 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
