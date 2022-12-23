@@ -13,4 +13,4 @@ What else do you need?
 
 ### My story
 
-Make sure you check out [my GitHub](https://github.com/rllycool) and it will answer **all** your questions.
+Make sure you check out my [GitHub](https://github.com/rllycool).
