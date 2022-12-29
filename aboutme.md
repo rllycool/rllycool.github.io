@@ -6,7 +6,7 @@ subtitle: Hey, thanks for coming by!
 
 My name is Ethan Tillotson. I am currently a Junior Computer Engineering student at the University of Oklahoma. 
 
-As an Oklahoma City native, I've grown to love the culture here. Not as fond of the constant wind however!
+As an Oklahoma City native, I've grown to love the culture here. Not as fond of the constant wind that 'sweeps down the plains.'
 Our weather is very unpredicatable, we even get snow here!
 ![Alt text](/assets/img/ethantillotson1.jpg "Me in the snow last Winter!!!")
 
