@@ -8,7 +8,7 @@ My name is Ethan Tillotson. I am currently a Junior Computer Engineering student
 
 As an Oklahoma City native, I've grown to love the culture here. Not as fond of the constant wind however!
 Our weather is very unpredicatable, we even get snow here!
-![Alt text](/assets/img/ethantillotson1.jpg "Me in the snow last Winter!!!)
+![Alt text](/assets/img/ethantillotson1.jpg "Me in the snow last Winter!!!")
 
 What else do you need?
 
