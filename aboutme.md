@@ -5,8 +5,9 @@ subtitle: Hey, thanks for coming by!
 ---
 
 My name is Ethan Tillotson. I am currently a Junior Computer Engineering student at the University of Oklahoma. 
+
 Born and raised in Oklahoma City
-"/assest/img/ethantillotson1.jpg" 
+![Alt text](/assets/img/ethantillotson1.jpg "Me in Winter")
 What else do you need?
 
 ### Links
