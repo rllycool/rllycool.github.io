@@ -1,1 +1,1 @@
-![Alt text](/assets/img/Ethan Tillotson Resume (1).pdf "")
+![Alt text](/assets/img/EthanTillotson Resume.png "stub")
