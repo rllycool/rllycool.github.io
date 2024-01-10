@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-subtitle: Last updated 12.29.22
+subtitle: Current for Spring 2024
 ---
 
-![Alt text](/assets/img/EthanTillotson Resume.png "stub")
+![Alt text](/assets/img/Ethan Tillotson-Resume.pdf "Current Resume")
